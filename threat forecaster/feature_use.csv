@@ -1,0 +1,18 @@
+feature,importance
+num__NumAntivirusProductsInstalled,0.69844115
+cat__EngineVersion,0.06066515
+num__RealTimeProtectionState IsSystemProtected,0.057241507
+num__IsSystemProtected IsSecureBootEnabled,0.045434058
+num__RealTimeProtectionState IsSecureBootEnabled,0.028584883
+num__RealTimeProtectionState,0.024594672
+cat__AppVersion,0.022312129
+num__RealTimeProtectionState NumAntivirusProductsInstalled,0.020156693
+cat__OSVersion,0.009834149
+num__NumAntivirusProductsInstalled IsSecureBootEnabled,0.009828128
+num__NumAntivirusProductsInstalled IsSystemProtected,0.009235914
+num__IsSystemProtected,0.007537591
+num__IsSecureBootEnabled,0.006134016
+num__NumAntivirusProductsInstalled^2,0.0
+num__RealTimeProtectionState^2,0.0
+num__IsSystemProtected^2,0.0
+num__IsSecureBootEnabled^2,0.0
